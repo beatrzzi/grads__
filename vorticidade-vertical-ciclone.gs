@@ -1,6 +1,7 @@
 # autor: beatriz miranda
 # script para verificacao ou plot vertical da vorticidade relativa no centro de um ciclone
-# esse script necessita de conhecimento previo das latitudes ao centro do ciclone. além disso, ele não possui um loop,o que faz com q seja necessaria a alteração da latitude no gs a cada plot.
+# esse script necessita de conhecimento previo das latitudes ao centro do ciclone. 
+# ele não possui um loop,o que faz com q seja necessaria a alteração da latitude no gs a cada plot.
 
 'reinit'
 'set display white'
