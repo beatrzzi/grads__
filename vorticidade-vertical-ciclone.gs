@@ -1,13 +1,13 @@
 # autor: beatriz miranda
 # script para verificacao ou plot vertical da vorticidade relativa no centro de um ciclone
 # esse script necessita de conhecimento previo das latitudes ao centro do ciclone. 
-# ele não possui um loop,o que faz com q seja necessaria a alteração da latitude no gs a cada plot.
+# não possui um loop!
 
 'reinit'
 'set display white'
 'c'
 
-# tempo definido no terminal seguindo o formato em (ex:)
+# tempo e lat definidos no terminal seguindo o formato em (ex:)
 say "Enter date (ex:00Z06DEC2016): "
 pull tim
 say "Enter lat (ex:50) *sem sinal: "
